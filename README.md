@@ -1,4 +1,5 @@
 # hub_liveness_samtemplate_lambda (versão 0.0.2)
+![](/images/animated.gif)  
 
 ### Contato para negociação
 milton33b@hotmail.com
