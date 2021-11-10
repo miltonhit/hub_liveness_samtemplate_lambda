@@ -5,7 +5,7 @@
 milton33b@hotmail.com
 
 ### Introdução
-O produto HUBIA Liveness é um sofrware que tem como objetivo capturar vários frames de um rosto, dentro de um APLICATIVO Mobile, mandar para o servidor e validar se realmente aquela pessoa está viva (anti-spoofing) e determinar se é a mesma pessoa a partir de uma foto de origem (comparação biometrica, etapa opcional).
+O produto HUBIA Liveness é um software que tem como objetivo capturar vários frames de um rosto, dentro de um APLICATIVO Mobile, mandar para o servidor e validar se realmente aquela pessoa está viva (anti-spoofing) e determinar se é a mesma pessoa a partir de uma foto de origem (comparação biometrica, etapa opcional).
 
 Esse é um mecanismo antifraude primordial para automatizar e manter um padrão minímo de segurança ao autorizar transações,logins ou novas aquisições de clientes.
 
@@ -76,7 +76,7 @@ Environment: Coloque PRD
 S3BucketName: Nome do bucket que será criado na sua conta  
 PrivateIpMask: Coloque o IP que estará autorizado a fazer chamadas privadas (para startar a transação do cliente, normalmente o IP do seu servidor de produção)   
 
---- Importante:
+--- Importante  
 Caso queira deixar aberto para internet toda, coloque: 0.0.0.0/0
 Mas só faça isso em cenários controlados de testes...
 
