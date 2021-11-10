@@ -52,7 +52,7 @@ Você teria um custo entre R$0,30 até R$0,80 para para realizar uma validação
 > Hubia: 100k validações  = USD600,00 (AWS) + R$0,05 * 100k =  R$5000,00 (Hubia) + R$3600,00 (AWS) = R$8600,00/Mensal  
 > Outros: 100k validações = R$0,30 * 100k = R$30000,00/Mensal  
 
-###### TESTE DE GRAÇA!
+###### TESTE DE GRAÇA SEM COMPROMISSO!
 Implante e tenha 3 meses de gratuidade sobre o licenciamento HUBIA para qualquer quantidade de requests.
 Ou seja, só pague pelo consumo de recursos dentro da sua conta AWS.
 
@@ -61,10 +61,10 @@ Para começar, primeiro você deve instalar o software HUBIA dentro da sua conta
 
 1. Faça o download do template.yml: https://hublia-liveness-deploys.s3.amazonaws.com/0.0.2/template.yml  
 2. Abra o seu console AWS (tenha permissão de administrador) -> Cloudformation -> https://console.aws.amazon.com/cloudformation/home  
-3. Escolha um nome para sua STACK. Todos os recursos criados, serão tageados com esse nome  
-![](/images/tuto-cf-create4.png)  
-4. Clique no botão "create stack" -> With new Resources   
+3. Clique no botão "create stack" -> With new Resources   
 ![](/images/tuto-cf-create1.png)  
+4. Escolha um nome para sua STACK. Todos os recursos criados, serão tageados com esse nome  
+![](/images/tuto-cf-create4.png)  
 5. Upload a template file -> Upload file (faça o upload do arquivo que você baixou no passo 1)  
 ![](/images/tuto-cf-create2.png)  
 6. Preencha os parametros:  
