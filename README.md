@@ -53,7 +53,7 @@ Você teria um custo entre R$0,30 até R$0,80 para para realizar uma validação
 Implante e tenha 3 meses de gratuidade sobre o licenciamento HUBIA para qualquer quantidade de requests.
 Ou seja, só pague pelo consumo de recursos dentro da sua conta AWS.
 
-### Tutorial
+### Instalando SAM Template AWS
 Para começar, primeiro você deve instalar o software HUBIA dentro da sua conta AWS. Vamos fazer isso através de uma stack cloudformation, com um arquivo SAM template.
 
 1. Faça o download do template.yml: https://hublia-liveness-deploys.s3.amazonaws.com/0.0.2/template.yml  
