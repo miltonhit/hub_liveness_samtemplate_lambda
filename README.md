@@ -1,7 +1,9 @@
 # hub_liveness_samtemplate_lambda (versão 0.0.2)
 
-### Introdução
+### Contato para negociação
+milton33b@hotmail.com
 
+### Introdução
 O produto HUBIA Liveness é um sofrware que tem como objetivo capturar vários frames de um rosto, dentro de um APLICATIVO Mobile, mandar para o servidor e validar se realmente aquela pessoa está viva (anti-spoofing) e determinar se é a mesma pessoa a partir de uma foto de origem (comparação biometrica, etapa opcional).
 
 Esse é um mecanismo antifraude primordial para automatizar e manter um padrão minímo de segurança ao autorizar transações,logins ou novas aquisições de clientes.
