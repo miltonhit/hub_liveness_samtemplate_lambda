@@ -1,3 +1,5 @@
+![](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.br.hub.liveness.demonstration%26l%3DHubia%2520Liveness%26m%3D%24version)
+
 # hub_liveness_samtemplate_lambda (versão 0.0.2)
 ![](/images/animated.gif)  
 
